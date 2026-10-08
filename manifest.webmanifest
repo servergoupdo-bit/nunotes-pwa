@@ -1,0 +1,10 @@
+{
+  "name": "NuNotes._",
+  "short_name": "NuNotes._",
+  "description": "Pensar → Organizar → Hacer",
+  "start_url": "/nunotes-pwa/",
+  "scope": "/nunotes-pwa/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff"
+}
